@@ -1,0 +1,15 @@
+/*BLOG SECTION CSS START*/
+.blog-section{margin-top:120px; margin-bottom: 50px; display: block; width: 100%;background-color: #fdfd96;padding: 26px 0 500px 0;position: relative;}
+h2{text-align: center; color: #e66768 ; font-size: 70px; }
+span{color: brown ; font-size: 70px;opacity: 0.8;}
+.image-wrp{position: relative; }
+img.image-position{top: -28px; right: 120px;position: absolute;}
+.blog-wrap {padding-top: 70px;max-width: 100%;}
+.blog-wrap li {width: 30.33%; height: 400px; float: left; list-style-type: none;margin-right: 25px;}
+.blog-wrap li:hover {width: 33.33%;transition-duration: 1s; float: left; list-style-type: none;}
+ ul.blog-wrap li span {float: left; width: 100%; }
+.blog-text {margin-top: 55px; width: 100%; text-align: center;float: left;width: 100%;}
+.blog-text p {font-size: 22px; color: #646464;padding-bottom: 7px;font-weight: normal;width: 100%;float: left;}
+.blog-text span {font-size: 14px; color: #e66768;float: left;width: 100%;} 
+.blog{float: left; width: 380px;}
+/*BLOG SECTION CSS END*/

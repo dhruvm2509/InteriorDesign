@@ -1,0 +1,19 @@
+.content {display: inline-block; display: block; margin-top: 110px;}
+.more{display: inline-block; margin-top: 10px; margin-bottom: 10px; width: 100%; background-color: black;opacity: 79;}
+.something{display: inline;  }
+.something h2{ color: gold; font-size: 3em; text-align: center;}
+.something p{padding: 10px; line-height: 30px; text-align: justify; font-size: 1.5em; margin: 7px; color: white;font-family: Georgia, 'Times New Roman', Times, serif;}
+.row{display: inline-block; width: 30%; margin: 7px; padding: 10px; padding-left: 20px;}
+.image img{width: 90%; height: auto;}
+.image p{color: white; text-align: center; font-size: 2em;}
+.image p:hover{color: #e9696e;font-size: 3em;}
+
+
+
+.work{display: block; margin-top:15px ; padding-top:10px; padding-left: 25px;background-color: mistyrose;}
+.work p{text-align: center;}
+.pictures{width: 100%; height:auto; display: inline-block; }
+.pictures img{width: 31%; height:400px; padding: 10px 11px 20px 10px;}
+.pictures img:hover{width: 32%; height: 420px; opacity: 0.7; transition-duration: 1s;}
+.n1{color: goldenrod;font-family: "GREAT VIBES",cursive;font-size: 40px;}
+.n2{color: black;font-family: 'Times New Roman', Times, serif;font-size: 55px;margin-top: -70px;opacity: 0.8;}

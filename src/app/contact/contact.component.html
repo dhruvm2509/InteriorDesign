@@ -1,0 +1,75 @@
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet">
+
+
+<div class="consultant">
+    <div class="left">
+        <p class="n1">Are you Searching For a First-Class Consultant? </p>
+         <p class="n2">  You are at the Right Place!! </p>
+       
+    </div>
+</div>
+<div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.582334979125!2d85.99988061429717!3d23.76226899424125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f415ac2ef5668d%3A0x59ab34a715dda390!2sWebizy%20IT%20Solutions!5e0!3m2!1sen!2sin!4v1603175934626!5m2!1sen!2sin" 
+    width="600" width="1330" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+   
+</div>
+    <div class="n7" style="background-color: whitesmoke;margin-top: -2px;padding-top: 20px;">
+        <div class="contact__form__text">
+            <div class="section-title">
+                <h2 style="text-decoration: underline;">Get in touch</h2>
+            </div>
+            <p>As you might expect of a company that began as a high-end interiors contractor, we pay strict
+            attention.</p>
+        </div>
+
+        <div class="contact__form">
+            <form action="#">
+                <div><h1 style="padding-left: 10px;text-align: center;">FILL THE DETAILS!</h1></div>
+                <div class="three" style="padding-left: 10px;">
+                    <div class="name">
+                        <label>First Name: </label>
+                        <input type="text" placeholder="First Name">
+                    </div>
+                    <div class="name2">
+                        <label>Last Name: </label>
+                        <input type="text" placeholder="Last Name">
+                    </div>
+                </div>
+                <div class="three" style="padding-left: 10px;">
+                    <div class="name3">
+                        <label>Email: </label>
+                        <input type="email" placeholder="Email">        
+                    </div>
+                    <div class="name4">
+                        <label>Date : </label>
+                        <input type="date" placeholder="Date Of Appointment">
+                    </div>
+               </div>
+                <div class="details">
+                    <label>Phone No: </label>
+                    <input type="Number" placeholder="Number" style="margin-left: 10px;">
+                </div>
+                <div class="details" id="one">
+                    <label>Purpose : </label>
+                    <select class="custom-select" style="margin-left: 20px; border-radius: 25px;">Purpose of Design
+                        <option selected="" style="">Purpose</option>
+                        <option *ngFor="let value of values">{{value}}</option>
+                    </select>
+                </div>
+                <div class="details">
+                    <label>Feedback: </label>
+                </div>
+                <div class="details" id="two">
+                    <textarea placeholder="Message" style="border-radius: 10px;padding: 10px 0px 0px 20px;font-size: large;"></textarea>
+                </div>
+                <div style="padding-left: 10px;">
+                    <button  type="submit" id="x" >Proceed to Pay</button>
+                    <button  type="reset" id="y">Reset</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+

@@ -1,0 +1,62 @@
+ .map{margin: 3px; display: inline-table;padding-left: 1px;}
+ .row{display: block; margin:50px ;}
+
+ .consultant{ margin: 100px 50px 150px 5px ; display: block;  color: #e9696e; font-family: 'Gill Sans', 'Gill Sans MT';}
+.left{display: inline; height: 300px;background-color: whitesmoke; padding-left: 50px; padding-bottom: 20px; float: left; width: 100%; }
+.n1{font-size: 4em;}
+.n1:hover{color: goldenrod;}
+.n2{font-size: 4.5em; text-align: center; color: goldenrod;font-family: cursive; margin-top: -60px;}
+.n2:hover{color: #e9696e;}
+
+
+ .contact__form__text h2{text-align: center;font-size: 2em; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ .contact__form__text {
+	margin-bottom: 35px;
+}
+
+.contact__form__text .section-title {
+	margin-bottom: 12px;
+}
+
+.contact__form__text p {
+    margin-bottom: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: center;
+    color: saddlebrown;
+}
+
+.contact__form{display: block; margin:0px 50px 0px 250px;padding-bottom: 20px;}
+.name input{width: 200px; height: 35px; margin-bottom: 15px;}
+.details{padding: 10px;font-size: 1.4em;}
+.name{display: inline-block; padding-right: 40px;margin-right: 50px;font-size: 1.4em;}
+.name2{display: inline-block; padding-right: 40px;margin-right: 50px;font-size: 1.4em;}
+.name2 input{width: 200px; height: 35px; margin-bottom: 15px;}
+.name3{display: inline-block; padding-right: 40px;margin-right: 50px;font-size: 1.4em;}
+.name3 input{width: 200px; height: 35px; margin-bottom: 15px; margin-left: 45px;}
+.name4{display: inline-block; padding-right: 40px;margin-right: 50px;font-size: 1.4em;}
+.name4 input{width: 200px; height: 35px; margin-bottom: 15px; margin-left: 50px;}
+.details input{width: 20%; height: 35px;}
+#x{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	height: 40px;
+	width: 200px;
+	margin-right: 50px;
+	font-size: 1.4em;
+}
+#y{
+	font-family: Georgia;
+	height: 40px;
+	width: 100px;
+	margin-right: 50px;
+	font-size: 1.4em;
+}
+#two textarea{height: 80px ; width: 50%;}
+.contact__form ::placeholder{padding-left: 15px; font-size: 1.2em; font-family: Georgia, 'Times New Roman', Times, serif;}
+#one select{width: 350px; height: 40px; font-size: 0.7em; padding-left: 10px;}
+form{border: 2px solid;padding-bottom: 10px;margin-right: 150px;padding-left: 30px;background-color: rgba(253, 235, 232, 0.959);}
+input{border-radius: 25px;padding-left: 10px;}
+button{background-color: goldenrod;border-radius: 15px;}
+button:hover{background-color: whitesmoke;color: goldenrod;}

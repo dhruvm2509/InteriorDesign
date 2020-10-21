@@ -1,0 +1,21 @@
+/* body css starts */
+.background{ background-color: black; opacity: 1; color: white; margin-top: 25px; display:inline-block; width: 1350px; height: auto;}
+.leftcontent{margin: 10px 5px 0px 5px; padding:20px 5px 2px 50px; display: block; float: left; font-size: 1.5em; width: 40%;}
+.rightimage{width: 40%; margin: 10px; padding: 10px; float: right; display: block;}
+.rightimage img{ width: 100%; height: auto; }
+.clear{clear: both;}
+
+.designs{display: block; margin-top:15px ; padding-top:10px; padding-left: 25px;}
+.designs p{text-align: center;color: slateblue;  font-size: 35px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+.image{width: 100%; height:auto; display: inline-block; }
+.image img{width: 30%; height:200px; padding: 10px 11px 20px 10px;}
+.image img:hover{width: 35%; height: 220px; opacity: 0.7; transition-duration: 1s;}
+
+.work{display: block; margin-top:15px ; padding-top:10px; padding-left: 25px;}
+.work p{text-align: center;color: slateblue;  font-size: 2em; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+.pictures{width: 100%; height:auto; display: inline-block; }
+.pictures img{width: 30%; height:200px; padding: 10px 11px 20px 10px;}
+.pictures img:hover{width: 35%; height: 220px; opacity: 0.7; transition-duration: 1s;}
+p:hover{line-height: 1.5;opacity: 0.7;}
+span{color: #e9696e;}
+.designs p:hover{text-decoration: underline;font-size: 40px; transition-duration: 1s;}

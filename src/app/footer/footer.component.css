@@ -1,0 +1,30 @@
+.container{background-color: #000000;opacity: 0.87;color: honeydew; display: block;}
+.footer{margin-top: 50px; display: block; width: 100%; height: auto; background-color: black; color: white;}
+.links {text-align: center; font-size: 1.2em; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.links ul{list-style-type: none; text-decoration: none; padding: 10px; margin: 10px;}
+
+ul{list-style-type: none;padding: 0;margin: 0;text-decoration: none;}
+a{text-decoration: none;}
+a.right-pagination,a.left-pagination,span.top-pagination  {float: left; position: absolute; border: 1px solid #eec843; top: 0; right: 0; padding: 8px 12px;}  .contact-no:hover, .email:hover{text-decoration: underline;}
+.links ul{ float: left; width: auto; padding:1em ;}
+.links ul li{ float: right; padding-right: 10px; font-family: 'Times New Roman', Times, serif;}
+.links ul li a{ color: white; padding-left: 1em;}
+.links ul li a:first-child{ margin-left: 3em; padding-left: 25px;}
+.links ul li a:hover{ padding: 5px 15px 5px 15px; color: grey;  transition-duration: 0.3s;}
+
+.col-md-6{display: inline-block;float: left;}
+
+.list{list-style-type: none; margin-top: 15px; margin-left:50px ;}
+p{font-family: sans-serif;}
+.col-md-12{padding: 0px 400px 20px 450px;font-size: 30px;color: rgb(204, 200, 200);}
+.new{padding: 50px 100px 20px 50px;font-size: 20px;}
+.row{display: inline-block;}
+.row2{display: inline-block;}
+.ftco-heading-3{padding-left: 40px;text-decoration: none;font-size: xx-large;}
+.ftco-heading-1{color: gold;}
+.ftco-heading-2{text-decoration: none;font-size: xx-large;}
+a{margin-top: 20px;}
+a:hover{color: #e9696a;}
+.thumb1{padding-top: 20px;}
+.ftco-footer-widget ul li:hover{opacity: 0.5;line-height: 2;}
+img:hover{width: 120px; height: 200px;}
